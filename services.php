@@ -162,34 +162,48 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		  </div>
 
 <div class="home-services">
-  <!-- Nav tabs -->
+  <!-- Nav tabs 
   <ul class="nav nav-tabs responsive-tabs" role="tablist">
-    <li class="active"><a href="#userexp" role="tab" data-toggle="tab"><i class="fa fa-hand-pointer-o"></i><strong>User Research</strong><span>Gain Insights <!--from User Studies--> to create simple, consumable, intutive & delightful products</span></a></li>
+    <li class="active"><a href="#userexp" role="tab" data-toggle="tab"><i class="fa fa-hand-pointer-o"></i><strong>User Research</strong><span>Gain Insights to create simple, consumable, intutive & delightful products</span></a></li>
     <li><a href="#pdtenvision" role="tab" data-toggle="tab"><i class="fa fa-eye"></i><strong>Product Envision</strong><span>Envision your idea, with design thinking, Innovation Methods & Lean process</span></a></li>
     <li><a href="#frtend-dvlpmnt" role="tab" data-toggle="tab"><i class="fa fa-television"></i><strong>Front End Development</strong><span>Realize your vision, with hand crafted pixels that are delightful to users</span>
   </a></li>
     <li><a href="#mobpdts" role="tab" data-toggle="tab"><i class="fa fa-bullseye"></i><strong>Digital Marketing</strong><span>Develop deep rooted acquisition and engagement strategy </span>
   </a></li>
     <li><a href="#analytics" role="tab" data-toggle="tab"><i class="fa fa-line-chart"></i><strong>Analytics & Optimization</strong><span>Setup User behaviour tracking to Identify hot opportunities for improvement</span></a></li>
+  </ul>-->
+
+ <!-- Nav tabs -->
+<ul class="nav nav-tabs responsive-tabs" role="tablist">
+    <li class="active"><a href="#userexp" role="tab" data-toggle="tab"><i class="fa fa-hand-pointer-o"></i><strong>User Research</strong><span>Finding the Right Things</span></a></li>
+    <li><a href="#pdtenvision" role="tab" data-toggle="tab"><i class="fa fa-eye"></i><strong>Product Strategy</strong><span>Doing the Right Things</span></a></li>
+    <li><a href="#frtend-dvlpmnt" role="tab" data-toggle="tab"><i class="fa fa-television"></i><strong>UX / UI Design</strong><span>Doing Things Right</span>
+  </a></li>
+    <li><a href="#mobpdts" role="tab" data-toggle="tab"><i class="fa fa-bullseye"></i><strong>Front End Development</strong><span>Building Things Right</span>
+  </a></li>
+    <li><a href="#analytics" role="tab" data-toggle="tab"><i class="fa fa-line-chart"></i><strong>Growth Hacking</strong><span>Improving Right Things</span></a></li>
   </ul>
+
+
   <div class="tab-content">
     <div class="tab-pane active" id="userexp">
     <div class="row">
     <div class="col-md-7">
       <h4 class="text-primary">
     <!--Eliminate market uncertainty and guarantee a strategic edge over competition!-->
-      Eliminating market uncertainty from Research to Realization !
+      <!-- Eliminating market uncertainty from Research to Realization ! -->
+      Gain Insights on user behaviour and engagement!
     </h4>
     <p>Getting the right product shouldn’t be left to chance. We help unearth the core user and business insights that lead to successful digital products and roadmaps. With our user studies, we help uncover user goals, motivations & pain points and guarantee “the big idea” is actionable, scalable and user-tested. This helps eliminate market uncertainty and gives a strategic edge over your competition.
 
     <!--Understanding user goals, motivations, pain points and the tasks they perform.--></p>
     <ul>
-    <li><i class="fa fa-long-arrow-right"></i> User Research and Insight</li>
+    <li><i class="fa fa-long-arrow-right"></i> User Research and Insights</li>
     <li><i class="fa fa-long-arrow-right"></i> Competitive Analysis and Benchmarking</li>
-    <li><i class="fa fa-long-arrow-right"></i> Digital Strategy and Roadmap</li>
-    <li><i class="fa fa-long-arrow-right"></i> Customer experience design</li>
-    <li><i class="fa fa-long-arrow-right"></i> Innovation Workshops</li>
-
+    <li><i class="fa fa-long-arrow-right"></i> Persona & Customer Journey Mapping</li>
+    <li><i class="fa fa-long-arrow-right"></i> Customer Behaviour Analysis & Gaps</li>
+    <li><i class="fa fa-long-arrow-right"></i> Discover user intent & Uncover growth areas</li>
+</br><a href="contact.php" class="btn-system btn-large btn">Contact Us</a>
     </ul><br>
     <!--<a href="ux-research.html" class="btn btn-primary">Read More <i class="fa fa-angle-right"></i></a>-->
     </div>
@@ -222,7 +236,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             </div>
           </div>
-  		   <div class="item">
+         <div class="item">
             <img src="img/srvc-research3.jpg" alt="">
             <div class="carousel-caption">
 
@@ -251,13 +265,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     Innovation: Promoting changes to current user behaviour!-->
     Innovation is about designing for changes in User Behaviour!
     </h4>
-    <p>As your dedicated innovation partner, We strive to make it happen. Getting to the heart of a great idea can be most challenging. We address your unique vantage point with our blend of product envisioning and User experience process - bring products to light, faster, in a collaborative, cross-functional way. We engage the user throughout the process to understand their current behaviour, and importantly their intent, to create specific experiences that surprises & delights.<!--From building digital business models, prototypes and the creation of customized software--></p>
+    <p>As your dedicated innovation partner, We strive to make it happen. Getting to the heart of a great idea can be most challenging. We address your unique vantage point with our blend of product envisioning and User experience process - bring products to light, faster, in a collaborative, cross-functional way.<!--From building digital business models, prototypes and the creation of customized software--></p>
     <ul>
-    <li><i class="fa fa-long-arrow-right"></i> Accelearated Envisionsing workshops</li>
-    <li><i class="fa fa-long-arrow-right"></i> Customer experience mapping</li>
-    <li><i class="fa fa-long-arrow-right"></i> User experience Design</li>
-    <li><i class="fa fa-long-arrow-right"></i> Functional & Visual Prototypes</li>
-    <li><i class="fa fa-long-arrow-right"></i> Gamification/game design thinking</li>
+    <li><i class="fa fa-long-arrow-right"></i> Accelearated Innovation workshop (Stretegy Sprints)</li>
+    <li><i class="fa fa-long-arrow-right"></i> Product-Market Fit Assessment</li>
+    <li><i class="fa fa-long-arrow-right"></i> Service Design & Process Streamlining</li>
+    <li><i class="fa fa-long-arrow-right"></i> Ux Assessment & User Testing</li>
+    <li><i class="fa fa-long-arrow-right"></i> Gamification & Engagement</li>
+
+    </br><a href="contact.php" class="btn-system btn-large btn">Contact Us</a>
 
 
     </ul>
@@ -274,7 +290,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <div class="carousel-inner">
           <div class="item active">
-            <img src="img/srvc-envision.jpg" alt="">
+            <img src="img/srvc-envision3.jpg" alt="">
             <div class="carousel-caption">
 
             </div>
@@ -286,7 +302,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
           </div>
           <div class="item">
-            <img src="img/srvc-envision3.jpg" alt="">
+            <img src="img/srvc-envision.jpg" alt="">
             <div class="carousel-caption">
 
             </div>
@@ -308,16 +324,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="row">
     <div class="col-md-7">
       <h4 class="text-primary">
-    We love building awesome apps for web, tablet & mobile!
+    Envision your idea with Design Thinking and Lean Process!
     </h4>
     <!-- <p>As the technology capabilities continue to expand, so does our expertise. We’re technology agnostic, and build a pixel perfect front end for the customer experiences. Design and develop the front end modules for any enterprise or engaging consumer product leveraging the latest UI frameworks and decoupling the UI Layer from Server side using RESTful APIs and Service oriented Architectures</p> -->
-    <p>We’re technology agnostic and build a pixel perfect front end for the customer experiences - We can handcraft web and mobile experiences. Design and develop the front end modules for any enterprise or engaging consumer product leveraging the latest UI frameworks. If you are looking for a quick demo or a MVP, we have the right team!</p>
+    <p>We push the boundary and challenge the assumptions, deliver great customer experiences and help differentiate the prodcut offering. We engage the user through out the process for continuous user testing and feedback loop to create create specific experiences that surprises and delights end users!</p>
     <ul>
-    <li><i class="fa fa-long-arrow-right"></i> Leveraging full browser Capabilities</li>
-    <li><i class="fa fa-long-arrow-right"></i> Mature front end Frameworks</li>
-    <li><i class="fa fa-long-arrow-right"></i> Responsive Applications</li>
-    <li><i class="fa fa-long-arrow-right"></i> Motion Design</li>
-    <li><i class="fa fa-long-arrow-right"></i> Native iOS and Android Apps </li>
+    <li><i class="fa fa-long-arrow-right"></i> Accelerated Design Sprints</li>
+    <li><i class="fa fa-long-arrow-right"></i> Product UX / UI Design</li>
+    <li><i class="fa fa-long-arrow-right"></i> North Star Prototypes</li>
+    <li><i class="fa fa-long-arrow-right"></i> Motion Design & Visual Design</li>
+    <li><i class="fa fa-long-arrow-right"></i> Building Design Systems </li>
+
+    </br><a href="contact.php" class="btn-system btn-large btn">Contact Us</a>
+
     </ul><br>
     <!--<a href="frontend-development.html" class="btn btn-primary">Read More <i class="fa fa-angle-right"></i></a>-->
     </div>
@@ -331,21 +350,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </ol>-->
 
         <!-- Wrapper for slides -->
+        
         <div class="carousel-inner">
           <div class="item active">
-            <img src="img/srvc-frontend.jpg" alt="">
+            <img src="img/srvc-mobile.jpg" alt="">
+            <div class="carousel-caption">
 
+            </div>
+          </div>
+          <div class="item">
+            <img src="img/srvc-research.jpg" alt="">
+            <div class="carousel-caption">
+
+            </div>
+          </div>
+          <div class="item">
+            <img src="img/srvc-smm.jpg" alt="">
+            <div class="carousel-caption">
+
+            </div>
           </div>
 
         </div>
 
-        <!-- Controls
+
+         Controls
         <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
           <i class="fa fa-chevron-left"></i>
         </a>
         <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
           <i class="fa fa-chevron-right"></i>
-        </a>-->
+        </a>
       </div>
     </div>
     </div>
@@ -353,9 +388,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="tab-pane" id="mobpdts">
     <div class="row">
     <div class="col-md-7">
-      <h4 class="text-primary">  Driving business results through data, creativity & technology!  </h4>
+      <h4 class="text-primary">
+    We love building awesome apps for web, tablet & mobile!
+    </h4>
+      <!-- <h4 class="text-primary">  Driving business results through data, creativity & technology!  </h4> -->
     <!-- <p> We have expertise to deliver your ideas, in both Html5 and Native for iOS and Android, with Intuitive design and robust performance. If you have a current web application and API's ready, We can handcraft mobile experiences for your users. If you want a quick four Week MVP with Parse / Firebase backend (BAAS) and Mobile front end, Give us a call.<!Wide variety of domains, mobility extensions to enterprise products as well as fun and engaging consumer products. </p>-->
-  <p>We have passionate marketers and certified professionals who are adept at handling all aspects of Digital – from Search to Content to Social to Paid Media to Design and everything in between. We consult, strategize and execute to deliver digital excellence!</p>
+  <!-- <p>We have passionate marketers and certified professionals who are adept at handling all aspects of Digital – from Search to Content to Social to Paid Media to Design and everything in between. We consult, strategize and execute to deliver digital excellence!</p>
     <ul>
     <li><i class="fa fa-long-arrow-right"></i> Digital GTM Strategy</li>
     <li><i class="fa fa-long-arrow-right"></i> Lead Generation and Campaign Mgmt</li>
@@ -364,8 +402,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <li><i class="fa fa-long-arrow-right"></i> Digital Branding and Creatives</li>
 
       </ul>
+    </div> -->
+
+<p>We’re technology agnostic and build a pixel perfect front end for the customer experiences - We can handcraft web and mobile experiences. Design and develop the front end modules for any enterprise or engaging consumer product leveraging the latest UI frameworks. If you are looking for a quick demo or a MVP, we have the right team!</p>
+    <ul>
+    <li><i class="fa fa-long-arrow-right"></i> Responsive UI Development  (HTML/CSS, Bootstrap, Angular, ReactJS) </li>
+    <li><i class="fa fa-long-arrow-right"></i> Mobile Reactive Front ends  (React Native, Ionic)</li>
+    <li><i class="fa fa-long-arrow-right"></i> Develop No Code / Low code Apps  (Bubble, Google App Builder, Zoho, BAAS)</li>
+    <li><i class="fa fa-long-arrow-right"></i> Serverless CMS & Websites  (GatsbyJS+Netlify)</li>
+    <!-- <li><i class="fa fa-long-arrow-right"></i> Work along with your dev team</li> -->
+
+    </br><a href="contact.php" class="btn-system btn-large btn">Contact Us</a>
+
+    </ul><br>
+    <!--<a href="frontend-development.html" class="btn btn-primary">Read More <i class="fa fa-angle-right"></i></a>-->
     </div>
-    <div class="col-md-5">
+        <div class="col-md-5">
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <!--<ol class="carousel-indicators">
@@ -376,18 +428,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
+
           <div class="item active">
-            <img src="img/srvc-smm.jpg" alt="">
+            <img src="img/srvc-frontend.jpg" alt="">
 
           </div>
 
-        </div>
-        <div class="item">
-          <img src="img/srvc-mobile.jpg" alt="">
-          <div class="carousel-caption">
 
-          </div>
+
+
         </div>
+        
 
         <!-- Controls
         <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
@@ -405,7 +456,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="col-md-7">
       <h4 class="text-primary">
     <!--We help find the right problem to solve based on user behaviour data!-->
-    Finding the Right Problem to Solve, based on User Analytics!
+    Improving the Right things to Solve for different stages, based on User Analytics!
     </h4>
     <p>We help you gain deep insights of what users are doing in your website for continuous innovation. We help implement best practices in User behaviour analytics and design optimized User journeys and landing pages with A/B Testing, Funnel Analysis and Data crunching. </p>
     <ul>
@@ -434,10 +485,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
           </div>
           <div class="item">
-            <img src="img/srvc-analytics2.jpg" alt="">
+          <img src="img/srvc-research3.jpg" alt="">
             <div class="carousel-caption">
 
             </div>
+          </div>
           </div>
 
 
@@ -632,7 +684,115 @@ We've outlined some common reasons why our existing clients engaged us. Explore 
 </section> -->
 
 
+<!-- Start Full Width Section 1 
 
+      <div class="grey-bg bg-lg">
+        <div class="container">
+      <h2 class="text-primary text-center">Turn ideas into market ready products <br>with accelerated innovation and rapid iterations</h2>
+      <div class="row">
+
+        <div class="col-md-6">
+      <div class="panel-icn-center text-center">
+      <img src="img/servc-dd.png" alt="" class="icon-panel" height="96" width="96">
+      <h5 class="text-primary">Digital Design</h5>
+      <ul>
+      <li>Accelerated Innovation Workshop</li>
+      <li>Customer Empathy Research</li>
+      <li>Product Strategy</li>
+      <li>User Experience Design</li>
+      <li>Digital Analytics</li>
+      <li>Conversation Optimization</li>
+      </ul></div>
+      </div>
+      <div class="col-md-6">
+      <div class="panel-icn-center text-center">
+      <img src="img/servc-ss.png" alt="" class="icon-panel" height="96" width="96">
+      <h5 class="text-primary">Skunkworks Studio</h5>
+    <ul>
+    <li> Tech POC + Scalability</li>
+    <li>Solution Architecture</li>
+    <li>Front End Development</li>
+    <li>Multi Device / Multi Channel Dev </li>
+    <li>Native Mobile / Hybrid Apps Dev </li>
+    <li>Web Development</li>
+    </ul>
+  </div>
+      </div>
+
+      </div>
+        </div>
+      </div>
+       End Full Width Section 1 -->
+
+<!--Start CLient logos-->
+
+<section class="bg-lg">
+<div class="container text-center">
+      <div class="row">
+                      <div class="big-title">
+                          <h1 class="text-primary"><strong>You are in good Company!</strong></h1>
+                          <p class="title-desc">
+                           Our product and design strategy deliver awesome business outcomes and end user delight</p>
+                        </div>
+
+                      </div>
+                      <div class="row">
+                        <div class="col-md-2 col-md-offset-1 col-sm-2 col-xs-offset-1 col-xs-12">
+<img src="img/clients/cl-intuit.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleftbot">
+<img src="img/clients/cl-edureka.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleftbot">
+<img src="img/clients/cl-met.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleftbot">
+<img src="img/clients/cl-wisense.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleftbot" >
+<img src="img/clients/cl-verifone.png" alt="" style="width: 70%">
+                        </div>
+</div>
+
+                      <div class="row">
+                        <div class="col-md-2 col-md-offset-1 col-sm-2 col-xs-offset-1 col-xs-12 bordtop">
+<img src="img/clients/cl-napie.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleft">
+<img src="img/clients/cl-digi.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleft">
+<img src="img/clients/cl-qno.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleft">
+<img src="img/clients/cl-aims.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleft">
+<img src="img/clients/cl-mlm.png" alt="" style="width: 70%">
+                        </div>
+</div>
+
+                        <div class="row">
+                        <div class="col-md-2 col-md-offset-1 col-sm-2 col-xs-offset-1 col-xs-12 bordtop">
+<img src="img/clients/cl-flip.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordlefttop">
+<img src="img/clients/cl-lorve.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordlefttop">
+<img src="img/clients/cl-right.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordlefttop">
+<img src="img/clients/cl-tlx.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordlefttop">
+<img src="img/clients/cl-slicket.png" alt="" style="width: 70%">
+                        </div>
+</div>
+
+</div>
+</section>
+<!--End CLient Logos-->
 
 
     <!-- Start Footer -->
@@ -641,58 +801,59 @@ We've outlined some common reasons why our existing clients engaged us. Explore 
         <div class="row">
           <!-- Start Contact Widget -->
 
-		    <div class="col-md-5">
+        <div class="col-md-5">
             <div class="footer-widget">
               <h4>Claritiz Innovations<span class="head-line"></span></h4>
-             <p>We are a strategic design company. We work alongside our clients to innovate offerings, tap on business potential, and benefit on enhanced productivity.</p>
+             <p>We are a Digital UX / UI Design Studio. We work alongside our clients to innovate offerings, tap on business potential, and benefit on enhanced productivity.</p>
+
               <ul>
 
-                <li> <a class="call" href="callto:918095063070"><span><i class="fa fa-phone"></i></span> + 91 809-506-3070 </a></li>
-                <li> <a class="call" href="mailto:ravi@claritiz.com"><span><i class="fa fa-envelope"></i></span> ravi@claritiz.com</a></li>
+                <li> <a class="call" href="callto:8041217152"><span><i class="fa fa-phone"></i></span> + 91 804-121-7152 </a></li>
+                <li> <a class="call" href="mailto:info@claritiz.com"><span><i class="fa fa-envelope"></i></span> info@claritiz.com</a></li>
 
               </ul>
             </div>
           </div>
           <!-- .col-md-3 -->
-		        <div class="col-md-4">
+            <div class="col-md-4">
             <div class="footer-widget">
               <h4>Company Info<span class="head-line"></span></h4>
               <div class="row">
-		 <div class="col-md-4">
-			  <ul>
-			    <li><a href="index.php"><i class="fa fa-angle-right"></i> Home</a></li>
-				<li><a href="about.php"><i class="fa fa-angle-right"></i> About us</a></li>
-				 <li><a href="services.php"><i class="fa fa-angle-right"></i> Services</a></li>
+        <div class="col-md-4">
+        <ul>
+          <li><a href="index.php"><i class="fa fa-angle-right"></i> Home</a></li>
+        <li><a href="about.php"><i class="fa fa-angle-right"></i> About us</a></li>
+         <li><a href="services.php"><i class="fa fa-angle-right"></i> Services</a></li>
 
-				  <li><a href="ourwork.php"><i class="fa fa-angle-right"></i> Our Work</a></li>
-				 <li><a href="contact.php"><i class="fa fa-angle-right"></i> Contact</a></li>
+          <li><a href="ourwork.php"><i class="fa fa-angle-right"></i> Our Work</a></li>
+         <li><a href="contact.php"><i class="fa fa-angle-right"></i> Contact</a></li>
 
-				 </ul>
-			  </div>
-			  <div class="col-md-8">
-			   <ul>
-			   <!--<li><a href="userresearch.html"><i class="fa fa-angle-right"></i> User Research</a></li>
-			    <li><a href="productenvision.html"><i class="fa fa-angle-right"></i> Product Envision</a></li>
-				 <li><a href="frontenddev.html"><i class="fa fa-angle-right"></i> Front End Development</a></li>
-				 <li><a href="mobility.html"><i class="fa fa-angle-right"></i> Mobility Products</a></li>
-				 <li><a href="optimization.html"><i class="fa fa-angle-right"></i> Analytics & Optimization</a></li>-->
+         </ul>
+        </div>
+        <div class="col-md-8">
+         <ul>
+         <!--<li><a href="userresearch.html"><i class="fa fa-angle-right"></i> User Research</a></li>
+          <li><a href="productenvision.html"><i class="fa fa-angle-right"></i> Product Envision</a></li>
+         <li><a href="frontenddev.html"><i class="fa fa-angle-right"></i> Front End Development</a></li>
+         <li><a href="mobility.html"><i class="fa fa-angle-right"></i> Mobility Products</a></li>
+         <li><a href="optimization.html"><i class="fa fa-angle-right"></i> Analytics & Optimization</a></li>-->
 
-                 <li><a href=""><i class="fa fa-angle-right"></i> User Research</a></li>
-			    <li><a href=""><i class="fa fa-angle-right"></i> Product Envision</a></li>
-				 <li><a href=""><i class="fa fa-angle-right"></i> Front End Development</a></li>
-				 <li><a href=""><i class="fa fa-angle-right"></i> Mobility Products</a></li>
-				 <li><a href=""><i class="fa fa-angle-right"></i> Analytics & Optimization</a></li>
+          <li><a href="services.php"><i class="fa fa-angle-right"></i> UX Research Agency</a></li>
+          <li><a href="services.php"><i class="fa fa-angle-right"></i> Product Strategy Consultants</a></li>
+         <li><a href="services.php"><i class="fa fa-angle-right"></i> UX / UI Design Agency</a></li>
+         <li><a href="services.php"><i class="fa fa-angle-right"></i> UI Development Specialists</a></li>
+         <li><a href="services.php"><i class="fa fa-angle-right"></i> Growth Hacking Agency</a></li>
 
               </ul>
-			  </div>
-			  </div>
+        </div>
+        </div>
 
             </div>
 
           </div>
 
-		<div class="col-md-3">
-		 <div class="footer-widget social-widget pull-right">
+    <div class="col-md-3">
+     <div class="footer-widget social-widget pull-right">
               <h4>Follow Us<span class="head-line"></span></h4>
               <ul class="social-icons">
                 <li>
@@ -711,7 +872,7 @@ We've outlined some common reasons why our existing clients engaged us. Explore 
 
               </ul>
             </div>
-		</div>
+    </div>
           <!-- .col-md-3 -->
           <!-- End Subscribe & Social Links Widget -->
           <!-- End Contact Widget -->
@@ -724,7 +885,7 @@ We've outlined some common reasons why our existing clients engaged us. Explore 
         <div class="copyright-section">
           <div class="row">
             <div class="col-md-6">
-              <p>&copy; 2015 Claritiz Innovations Pvt Lts; All Rights Reserved </p>
+              <p>&copy; 2019 Claritiz Innovations Pvt Lts; All Rights Reserved </p>
             </div>
             <div class="col-md-6">
 

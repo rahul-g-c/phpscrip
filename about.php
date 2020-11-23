@@ -12,7 +12,7 @@
 	<meta name="description" content="User Experience Consulting for Social, Mobile and Analytics">
 	<meta name="keywords" content="Claritiz, Innovation workshops, Idea workshops, User research, Market Validation, Mobile Applications, UI Technologies, design factors, user experience, technologies, outsourced, user centered design, usability, UCD, product, development, offshore, india, bangalore, coimbatore, web, products, iOS, Android, iPhone, iPad, " />
 	<meta name="author" content="Claritiz">
-    	
+
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -60,7 +60,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <a class="navbar-brand page-scroll" href="#page-top">
 				<img src="img/logo-dark.png" alt="" class="shrink-logo-img">
 				<img src="img/logo.png" alt="" class="logo-img"></a>
-				
+
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -86,7 +86,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <li><a href="#">Front End Development</a></li>
 	 <li><a href="#">Moiblity Products</a></li>
 	  <li><a href="#">Analytics & Optimization</a></li>
-    
+
   </ul>
                     </li>-->
                     <li>
@@ -95,7 +95,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <li>
                         <a class="page-scroll" href="contact.php">Contact</a>
                     </li>
-              
+
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -104,7 +104,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </nav>
 
     <!-- Header -->
-    <header class="inner-header hdr-bg3">
+    <header class="inner-header hdr-bg2">
         <div class="container">
             <div class="intro-text">
                 <h1>We Think Products!</h1>
@@ -113,42 +113,42 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
         </div>
     </header>
-    
+
    <section class="inumbers-bg">
  <div class="container">
  <div class="row">
  <div class="text-center">
 </div>
- <div class="col-md-3 inumbers-bg-border">
+ <div class="col-md-4 inumbers-bg-border">
  <div class="icon">
  <img style="height:67px" src="img/number-img1.png">
  </div>
- <strong>50+</strong>
+ <strong>100+</strong>
  <p>Years of collective Experience</p>
  </div>
-  <div class="col-md-3 inumbers-bg-border">
+  <div class="col-md-4 inumbers-bg-border">
  <div class="icon">
  <img style="height:67px" src="img/number-img2.png">
  </div>
- <strong>10+</strong>
+ <strong>50+</strong>
  <p>Accelerated Product Envisioning Workshops</p>
  </div>
- <div class="col-md-3 inumbers-bg-border">
- 
+ <div class="col-md-4 inumbers-bg-border">
+
  <div class="icon">
  <img style="height:67px" src="img/number-img3.png">
  </div>
- <strong>20+</strong>
+ <strong>30+</strong>
  <p>Amazing Mobility & Web products</p>
  </div>
-  <div class="col-md-3">
+<!--   <div class="col-md-3">
  <div class="icon">
  <img style="height:67px" src="img/number-img4.png">
  </div>
  <strong>10+</strong>
  <p>Countries with happier clients</p>
- </div>
- 
+ </div> -->
+
  </div>
 </div>
 </section>
@@ -186,7 +186,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 </div>
 </div>
-    
+
     </div>
 	<div class="col-md-6">
 	<div class="panel-group" id="accordion">
@@ -194,15 +194,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="panel-heading">
       <h4 class="panel-title">
         <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-           Amazing Experience 
+           Amazing Experience
         </a><i class="indicator fa fa-plus  pull-right"></i>
       </h4>
     </div>
     <div id="collapseTwo" class="panel-collapse collapse in">
       <div class="panel-body">
-        # 20+ Products & Apps designed successfully (includes B2C, B2B)</br>
+        # 30+ Products & Apps designed successfully (includes B2C, B2B)</br>
         # Expertise across Social, Mobile, Analytics and Cloud </br>
-        # Domain Expertise across BFSI, Trading, Payments, Healthcare, Learning, E-Commerce 
+        # Domain Expertise across BFSI, Trading, Payments, Healthcare, Learning, E-Commerce
       </div>
     </div>
   </div>
@@ -210,15 +210,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="panel-heading">
       <h4 class="panel-title">
         <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-          Right Team 
+          Right Team
         </a><i class="indicator fa fa-minus  pull-right"></i>
       </h4>
     </div>
     <div id="collapseOne" class="panel-collapse collapse">
       <div class="panel-body">
 
-# 50+ years of collective experience in Product Innovation, User Experience, Web and Mobile Development </br>
-# Multi-disciplinary Team – Product Design, Digitial Marketing, Business Analyst, Human Factors, Visual Design and Engineering... 
+# 100+ years of collective experience in Product Innovation, User Experience, Web and Mobile Development </br>
+# Multi-disciplinary Team – Product Design, Digitial Marketing, Business Analyst, Human Factors, Visual Design and Engineering...
       </div>
     </div>
   </div>
@@ -226,16 +226,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="panel-heading">
       <h4 class="panel-title">
         <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-          Proven Thought Leadership 
+          Proven Thought Leadership
         </a><i class="indicator fa fa-plus pull-right"></i>
       </h4>
     </div>
     <div id="collapseThree" class="panel-collapse collapse">
       <div class="panel-body">
          # Associated with Accelerators on coaching startups in Design Thinking and Lean Principles</br>
-         # Product Innovation and User Experience training for several corporates teams</br> 
+         # Product Innovation and User Experience training for several corporates teams</br>
          # Published Research papers in the national and international conferences
-         
+
       </div>
     </div>
   </div>
@@ -246,14 +246,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
       </div>
 	 </div>
-    
-   
+
+
 <section class="grey-bg bg-lg">
       <div class="container content">
 	  <div class="row">
 	  <div class="text-center">
 		 <h2 class="text-primary">Testimonial</h2>
-		 
+
 		  </div>
 		  <div class="row">
 	 <div class="col-xs-12 col-md-6 col-sm-6">
@@ -271,7 +271,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</div>
 				</div>
 		</div>
-		
+
 	   <div class="col-xs-12 col-md-6 col-sm-6">
 		<div class="thumbnail adjust1">
 				<div class="caption">
@@ -296,8 +296,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</div>
 				</div>
 		</div>
-		
-		
+
+
 	 <div class="col-xs-12 col-md-6 col-sm-6">
 			<div class="thumbnail adjust1">
 				<div class="caption">
@@ -307,77 +307,149 @@ rethink in a novel manner. Ravi stuck though the difficulties and the result exc
 uncommonly persistent, detailed and is willing to rework functions to attain
 novelty. His behavior and expectations are straightforward. </p>
 				<blockquote class="adjust2">
-					<p>John Osborn</p> <small><cite title="Source Title">Oregon based Corporate Venture</cite></small>
+					<p>Dan Blietz</p> <small><cite title="Source Title">Charlotte based Venture</cite></small>
 				</blockquote>
 					</div>
 				</div>
 		</div>
 
 		</div><!--end-->
-	  
+
 	  </div>
 
 </div>
 </section>
+
+<!--Start CLient logos-->
+
+<section class="bg-lg">
+<div class="container text-center">
+      <div class="row">
+                      <div class="big-title">
+                          <h1 class="text-primary"><strong>You are in good Company!</strong></h1>
+                          <p class="title-desc">
+                           Our product and design strategy deliver awesome business outcomes and end user delight</p>
+                        </div>
+
+                      </div>
+                      <div class="row">
+                        <div class="col-md-2 col-md-offset-1 col-sm-2 col-xs-offset-1 col-xs-12">
+<img src="img/clients/cl-intuit.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleftbot">
+<img src="img/clients/cl-edureka.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleftbot">
+<img src="img/clients/cl-met.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleftbot">
+<img src="img/clients/cl-wisense.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleftbot" >
+<img src="img/clients/cl-verifone.png" alt="" style="width: 70%">
+                        </div>
+</div>
+
+                      <div class="row">
+                        <div class="col-md-2 col-md-offset-1 col-sm-2 col-xs-offset-1 col-xs-12 bordtop">
+<img src="img/clients/cl-napie.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleft">
+<img src="img/clients/cl-digi.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleft">
+<img src="img/clients/cl-qno.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleft">
+<img src="img/clients/cl-aims.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordleft">
+<img src="img/clients/cl-mlm.png" alt="" style="width: 70%">
+                        </div>
+</div>
+
+                        <div class="row">
+                        <div class="col-md-2 col-md-offset-1 col-sm-2 col-xs-offset-1 col-xs-12 bordtop">
+<img src="img/clients/cl-flip.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordlefttop">
+<img src="img/clients/cl-lorve.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordlefttop">
+<img src="img/clients/cl-right.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordlefttop">
+<img src="img/clients/cl-tlx.png" alt="" style="width: 70%">
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-6 bordlefttop">
+<img src="img/clients/cl-slicket.png" alt="" style="width: 70%">
+                        </div>
+</div>
+
+</div>
+</section>
+<!--End CLient Logos-->
+
 
     <!-- Start Footer -->
     <footer class="footer-bg">
       <div class="container">
         <div class="row">
           <!-- Start Contact Widget -->
-    
-		    <div class="col-md-5">
+
+        <div class="col-md-5">
             <div class="footer-widget">
               <h4>Claritiz Innovations<span class="head-line"></span></h4>
-             <p>We are a strategic design company. We work alongside our clients to innovate offerings, tap on business potential, and benefit on enhanced productivity.</p> 
+             <p>We are a Digital UX / UI Design Studio. We work alongside our clients to innovate offerings, tap on business potential, and benefit on enhanced productivity.</p>
+
               <ul>
-			  
-                <li> <a class="call" href="callto:918095063070"><span><i class="fa fa-phone"></i></span> + 91 809-506-3070 </a></li>
-                <li> <a class="call" href="mailto:ravi@claritiz.com"><span><i class="fa fa-envelope"></i></span> ravi@claritiz.com</a></li>
-               
+
+                <li> <a class="call" href="callto:8041217152"><span><i class="fa fa-phone"></i></span> + 91 804-121-7152 </a></li>
+                <li> <a class="call" href="mailto:ravi@claritiz.com"><span><i class="fa fa-envelope"></i></span> info@claritiz.com</a></li>
+
               </ul>
             </div>
           </div>
           <!-- .col-md-3 -->
-		        <div class="col-md-4">
+            <div class="col-md-4">
             <div class="footer-widget">
               <h4>Company Info<span class="head-line"></span></h4>
               <div class="row">
-		 <div class="col-md-4">
-			  <ul>
-			    <li><a href="index.php"><i class="fa fa-angle-right"></i> Home</a></li>
-				<li><a href="about.php"><i class="fa fa-angle-right"></i> About us</a></li>
-				 <li><a href="services.php"><i class="fa fa-angle-right"></i> Services</a></li>
-				 
-				  <li><a href="ourwork.php"><i class="fa fa-angle-right"></i> Our Work</a></li>
-				 <li><a href="contact.php"><i class="fa fa-angle-right"></i> Contact</a></li>
-				
-				 </ul>
-			  </div>
-			  <div class="col-md-8">
-			   <ul>
-			   <!--<li><a href="userresearch.html"><i class="fa fa-angle-right"></i> User Research</a></li>
-			    <li><a href="productenvision.html"><i class="fa fa-angle-right"></i> Product Envision</a></li>
-				 <li><a href="frontenddev.html"><i class="fa fa-angle-right"></i> Front End Development</a></li>
-				 <li><a href="mobility.html"><i class="fa fa-angle-right"></i> Mobility Products</a></li>
-				 <li><a href="optimization.html"><i class="fa fa-angle-right"></i> Analytics & Optimization</a></li>-->
-                 
-                 <li><a href=""><i class="fa fa-angle-right"></i> User Research</a></li>
-			    <li><a href=""><i class="fa fa-angle-right"></i> Product Envision</a></li>
-				 <li><a href=""><i class="fa fa-angle-right"></i> Front End Development</a></li>
-				 <li><a href=""><i class="fa fa-angle-right"></i> Mobility Products</a></li>
-				 <li><a href=""><i class="fa fa-angle-right"></i> Analytics & Optimization</a></li>
-				
+        <div class="col-md-4">
+        <ul>
+          <li><a href="index.php"><i class="fa fa-angle-right"></i> Home</a></li>
+        <li><a href="about.php"><i class="fa fa-angle-right"></i> About us</a></li>
+         <li><a href="services.php"><i class="fa fa-angle-right"></i> Services</a></li>
+
+          <li><a href="ourwork.php"><i class="fa fa-angle-right"></i> Our Work</a></li>
+         <li><a href="contact.php"><i class="fa fa-angle-right"></i> Contact</a></li>
+
+         </ul>
+        </div>
+        <div class="col-md-8">
+         <ul>
+         <!--<li><a href="userresearch.html"><i class="fa fa-angle-right"></i> User Research</a></li>
+          <li><a href="productenvision.html"><i class="fa fa-angle-right"></i> Product Envision</a></li>
+         <li><a href="frontenddev.html"><i class="fa fa-angle-right"></i> Front End Development</a></li>
+         <li><a href="mobility.html"><i class="fa fa-angle-right"></i> Mobility Products</a></li>
+         <li><a href="optimization.html"><i class="fa fa-angle-right"></i> Analytics & Optimization</a></li>-->
+
+          <li><a href="services.php"><i class="fa fa-angle-right"></i> UX Research Agency</a></li>
+          <li><a href="services.php"><i class="fa fa-angle-right"></i> Product Strategy Consultants</a></li>
+         <li><a href="services.php"><i class="fa fa-angle-right"></i> UX / UI Design Agency</a></li>
+         <li><a href="services.php"><i class="fa fa-angle-right"></i> UI Development Specialists</a></li>
+         <li><a href="services.php"><i class="fa fa-angle-right"></i> Growth Hacking Agency</a></li>
+
               </ul>
-			  </div>
-			  </div>
-              
+        </div>
+        </div>
+
             </div>
-			
+
           </div>
 
-		<div class="col-md-3">
-		 <div class="footer-widget social-widget pull-right">
+    <div class="col-md-3">
+     <div class="footer-widget social-widget pull-right">
               <h4>Follow Us<span class="head-line"></span></h4>
               <ul class="social-icons">
                 <li>
@@ -389,14 +461,14 @@ novelty. His behavior and expectations are straightforward. </p>
                 <li>
                   <a class="google" href="https://plus.google.com/107282691469982219512/about"><i class="fa fa-google-plus"></i></a>
                 </li>
-               
+
                 <li>
                   <a class="linkdin" href="https://in.linkedin.com/in/rshank"><i class="fa fa-linkedin"></i></a>
                 </li>
-              
+
               </ul>
             </div>
-		</div>
+    </div>
           <!-- .col-md-3 -->
           <!-- End Subscribe & Social Links Widget -->
           <!-- End Contact Widget -->
@@ -409,10 +481,10 @@ novelty. His behavior and expectations are straightforward. </p>
         <div class="copyright-section">
           <div class="row">
             <div class="col-md-6">
-              <p>&copy; 2015 Claritiz Innovations Pvt Lts; All Rights Reserved </p>
+              <p>&copy; 2019 Claritiz Innovations Pvt Lts; All Rights Reserved </p>
             </div>
             <div class="col-md-6">
-            
+
             </div>
           </div>
         </div>
@@ -422,7 +494,7 @@ novelty. His behavior and expectations are straightforward. </p>
     </footer>
     <!-- End Footer -->
 
-    
+
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 

@@ -432,10 +432,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>We’re technology agnostic and build a pixel perfect front end for the customer experiences - We can handcraft web and mobile experiences. Design and develop the front end modules for any enterprise or engaging consumer product leveraging the latest UI frameworks. If you are looking for a quick demo or a MVP, we have the right team!</p>
     <ul>
-    <li><i class="fa fa-long-arrow-right"></i> Responsive UI Development (HTML/CSS, Bootstrap, Angular, ReactJS) </li>
-    <li><i class="fa fa-long-arrow-right"></i> Mobile Reactive Front ends (React Native, Ionic)</li>
-    <li><i class="fa fa-long-arrow-right"></i> Develop No Code / Low code Apps (Bubble, Google App Builder, Zoho, BAAS)</li>
-    <li><i class="fa fa-long-arrow-right"></i> Serverless CMS & Websites (GatsbyJS+Netlify)</li>
+    <li><i class="fa fa-long-arrow-right"></i> Responsive UI Development  (HTML/CSS, Bootstrap, Angular, ReactJS) </li>
+    <li><i class="fa fa-long-arrow-right"></i> Mobile Reactive Front ends  (React Native, Ionic)</li>
+    <li><i class="fa fa-long-arrow-right"></i> Develop No Code / Low code Apps  (Bubble, Google App Builder, Zoho, BAAS)</li>
+    <li><i class="fa fa-long-arrow-right"></i> Serverless CMS & Websites  (GatsbyJS+Netlify)</li>
     <!-- <li><i class="fa fa-long-arrow-right"></i> Work along with your dev team</li> -->
 
     </br><a href="contact.php" class="btn-system btn-large btn">Contact Us</a>
