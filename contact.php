@@ -5,7 +5,12 @@
         $mobile = $_POST['mobile'];
         $message = $_POST['message'];
         //$human = intval($_POST['human']);
-        $from = 'Demo Contact Form';
+
+
+
+          $headers =  'MIME-Version: 1.0' . "\r\n"; 
+          $headers .= 'From: Your name <info@address.com>' . "\r\n";
+          $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n"; 
         $to = 'ravi@claritiz.com';
         $subject = 'Claritiz Innovations Contact';
         
@@ -43,7 +48,7 @@
 // If there are no errors, send the email
 // if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
 if (!$errName && !$errEmail && !$errMobile && !$errMessage) {
-	if (mail ($to, $subject, $body, $from)) {
+	if (mail ($to, $subject, $body, $headers)) {
 		$result='<div class="alert alert-success">Thank You! We will be in touch shortly!</div>';
 	} else {
 		$result='<div class="alert alert-danger">Sorry there was an error sending your message. Please try again later.</div>';
