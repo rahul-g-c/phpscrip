@@ -4,14 +4,30 @@
         $email = $_POST['email'];
         $mobile = $_POST['mobile'];
         $message = $_POST['message'];
-        //$human = intval($_POST['human']);
+
+
+        require 'phpmailer/PHPMailerAutoload.php';
+        $mail = new PHPMailer();
+        $mail->IsSMTP();
+        $mail->SMTPDebug =0;
+        $mail->SMTPAuth =true;
+        $mail->SMTPSecure ='ssl';
+        $mail->Host ="smtp.gmail.com";
+        $mail->Port =465;
+        $mail->IsHTML(true);
+        $mail->Username ="rahul.claritiz@gmail.com";
+        $mail->Password = "r@hul123";
+        $mail->SetFrom($_POST['email'],$_POST['name']);
+        $mail->Subject = 'Claritiz Innovations Contact';
+        $mail->Body = "From: $name\n E-Mail: $email\n Mobile: $mobile\n Message:\n $message";
+
+        
 
 
 
-          $headers =  'MIME-Version: 1.0' . "\r\n"; 
-          $headers .= 'From: Your name <info@address.com>' . "\r\n";
-          $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n"; 
-        $to = 'ravi@claritiz.com';
+          $headers = 'From: rahul@gmail.com' . "\r\n";
+
+        $to = 'rahul.claritiz@gmail.com';
         $subject = 'Claritiz Innovations Contact';
         
 		$body ="From: $name\n E-Mail: $email\n Mobile: $mobile\n Message:\n $message";
@@ -47,12 +63,23 @@
 		//}
 // If there are no errors, send the email
 // if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
+  // $errName="";$errEmail="";$errMobile="";$errMessage="";
 if (!$errName && !$errEmail && !$errMobile && !$errMessage) {
-	if (mail ($to, $subject, $body, $headers)) {
-		$result='<div class="alert alert-success">Thank You! We will be in touch shortly!</div>';
-	} else {
-		$result='<div class="alert alert-danger">Sorry there was an error sending your message. Please try again later.</div>';
-	}
+  $mail->AddAddress ("rahul.claritiz@gmail.com");
+  if(!$mail->Send())
+  {
+
+    $result='<div class="alert alert-danger">Sorry there was an error sending your message. Please try again later.</div>';
+  }
+  else
+  {
+    $result='<div class="alert alert-success">Thank You! We will be in touch shortly!</div>';
+  }
+	// if (mail ($to, $subject, $body, $headers)) {
+	// 	$result='<div class="alert alert-success">Thank You! We will be in touch shortly!</div>';
+	// } else {
+	// 	$result='<div class="alert alert-danger">Sorry there was an error sending your message. Please try again later.</div>';
+	// }
 }
 	}
 ?>
